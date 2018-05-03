@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadRippleMassagePracticeApp</string>
+    <string name="hours"><u>Hours</u>\nM-F 9AM-PM\nSAT 9AM-5PM\nSUN Closed</string>
+    <string name="company_name">"Broad \n  Ripple \n    Massage \n      Practice"</string>
+    <string name="website">www.broadripplemassagepractice.com</string>
+    <string name="company_description">"BRMP offers therapeutic massage, skin care, and waxing.  Each treatment session is designed specifically for you and your needs. Feel free to set up an appointment today!"</string>
+    <string name="address">"6117 College Ave. Suite #2\nIndianapolis, IN 46220"</string>
+    <string name="phone">\n317-602-4334</string>
+</resources>
